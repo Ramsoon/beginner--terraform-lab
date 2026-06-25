@@ -1,4 +1,4 @@
-# Terraform Cloud LAP
+# Terraform Cloud LAB
 
 A Terraform configuration for deploying and managing cloud infrastructure.
 
